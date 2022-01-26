@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkdodd98
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and machine learning
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @jkdodd98
 
